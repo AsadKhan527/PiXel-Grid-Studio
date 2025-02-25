@@ -1,4 +1,4 @@
-# Grid Designer 🎨
+# PiXel-Grid-Studio 🎨
 
 Grid Designer is a fun, interactive web application that allows you to unleash your creativity by designing custom pixel art on a dynamic, customizable grid.
 
